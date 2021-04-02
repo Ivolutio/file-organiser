@@ -1,0 +1,11 @@
+{
+  "name": "photo-organiser",
+  "version": "1.0.0",
+  "description": "Move photos to year-based folders.",
+  "main": "main.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "author": "Ivo Ketelaar",
+  "license": "ISC"
+}
